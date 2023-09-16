@@ -1,7 +1,14 @@
-# Install/Use
+# Python Discord Bot
 
-- Install python ( don't forget to add the PATH when installing)
-- Open VSCode
-- Run [ pip discord ] to install all discordAPI dependecies;
+This project contains a minimal starter for Node.js project with Typescript, ESLint and Prettier already configured
+
+## Prerequisites
+- Python
+
+## Installation
+- Install dependencies
+```bash
+pip discord
+```
 - Change line 24 to your discord api key
-- Run the code
+- Run Application
